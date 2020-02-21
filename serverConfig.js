@@ -1,12 +1,1 @@
-module.exports = {
-  port: 28146,
-  database: {
-    connectionLimit: 20,
-    user: 'bkod',
-    password: 'bkod',
-    // server: 'system.techlinkvn.com',
-    server: 'localhost',
-    database: 'BKOD',
-    port: 1433
-  }
-};
+{"APP":"BKOD","IP":"http://192.168.31.155","PORT":"28146"}
